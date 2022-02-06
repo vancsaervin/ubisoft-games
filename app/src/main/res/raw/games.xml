@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+  <game>
+    <id>1</id>
+    <name>Assassin's Creed</name>
+    <release_date>13rd November 2007</release_date>
+    <image>ac1.jpg</image>
+    <gallery>a11.jpg a12.jpg a13.jpg a14.jpg</gallery>
+    <url>https://www.ubisoft.com/en-us/game/assassins-creed/assassins-creed</url>
+    <short_description>The setting is 1191 AD. The third crusade is tearing the holy land apart. You, Altaïr, intend to stop the hostilities by suppressing both sides of the conflict.</short_description>
+    <long_description>You are an Assassin, stalking your prey with a hidden blade. A warrior shrouded in secrecy and feared for your ruthlessness. Your actions can throw your immediate environment into chaos, and your existence will shape events during this pivotal moment in history. Stalk your prey through richly detailed, historically accurate, open-ended environments. Scale buildings, mount horses, blend in with crowds. Do whatever it takes to achieve your objectives.</long_description>
+  </game>
+  <game>
+    <id>1</id>
+    <name>Assassin's Creed II</name>
+    <release_date>17th November 2009</release_date>
+    <image>ac2.jpg</image>
+    <gallery>a21.jpg a22.jpg a23.jpg a24.jpg</gallery>
+    <url>https://www.ubisoft.com/en-us/game/assassins-creed-2/</url>
+    <short_description>An epic story of family, vengance and conspiracy set in the pristine yet brutal backdrop of a Renaissance Italy.</short_description>
+    <long_description>Assassin's Creed II introduces you to Ezio, a new assassin carrying on the deadly lineage of his forebears. Confront an epic tale of power and corruption as you hone your Assassin's art, wielding weapons and instruments designed by the legendary Leonardo Da Vinci himself in this gripping and deadly sequel.</long_description>
+  </game>
+  <game>
+    <id>1</id>
+    <name>Assassin's Creed Brotherhood</name>
+    <release_date>16th November 2010</release_date>
+    <image>acbr.jpg</image>
+    <gallery>ab1.jpg ab2.jpg ab3.jpg ab4.png</gallery>
+    <url>https://www.ubisoft.com/en-us/game/assassins-creed-brotherhood</url>
+    <short_description>Live and breathe as Ezio, a legendary Master Assassin, in his enduring struggle against the powerful Templar order.</short_description>
+    <long_description>He must journey into Italy’s greatest city, Rome, center of power, greed and corruption to strike at the heart of the enemy. Defeating the corrupt tyrants entrenched there will require not only strength, but leadership, as Ezio commands an entire brotherhood of Assassins who will rally to his side. Only by working together can the Assassins defeat their mortal enemies and prevent the extinction of their order.</long_description>
+  </game>
+  <game>
+    <id>1</id>
+    <name>Assassin's Creed Revelations</name>
+    <release_date>15th November 2011</release_date>
+    <image>acrev.jpg</image>
+    <gallery>ar1.jpg ar2.jpg ar3.jpg ar4.jpg</gallery>
+    <url>https://www.ubisoft.com/en-us/game/assassins-creed-revelations/</url>
+    <short_description>Master assassin Ezio Auditore walks in the footsteps of the legendary mentor Altaïr.</short_description>
+    <long_description>Ezio Auditore must leave his life behind in search of answers, in search of the truth. In Assassin's Creed Revelations, master assassin Ezio Auditore walks in the footsteps of the legendary mentor Altaïr, on a journey of discovery and revelation. It is a perilous path — one that will take Ezio to Constantinople, the heart of the Ottoman Empire, where a growing army of Templars threatens to destabilize the region.</long_description>
+  </game>
+  <game>
+    <id>1</id>
+    <name>Assassin's Creed III</name>
+    <release_date>30th October 2012</release_date>
+    <image>ac3.jpg</image>
+    <gallery>a31.jpg a32.jpg a33.jpg a34.jpg</gallery>
+    <url>https://www.ubisoft.com/en-us/game/assassins-creed-3</url>
+    <short_description>Experience the untold story of the American Revolution through the eyes of a new Assassin, Connor.</short_description>
+    <long_description>The year is 1775. The American colonies are about to revolt. You are Connor, an assassin who has sworn to secure liberty for his people and his nation. To do so, you will hunt your enemies across a staggeringly large, open, and realistic world. You will unleash your lethal skills in a violent quest that will take you from chaotic city streets to blood-soaked battlefields in the hostile American wilderness and beyond. You will meet legendary heroes of American history, and together you will conspire to annihilate those who threaten Liberty itself.</long_description>
+  </game>
+  <game>
+    <id>1</id>
+    <name>Assassin's Creed IV: Black Flag</name>
+    <release_date>29th October 2013</release_date>
+    <image>ac4.jpg</image>
+    <gallery>a41.jpg a42.jpg a43.jpg a44.jpg</gallery>
+    <url>https://www.ubisoft.com/en-gb/game/assassins-creed-4-black-flag/</url>
+    <short_description>Compelling characters, an expansive world, and an incredible amount of pirate activities to engage in.</short_description>
+    <long_description>s is the case in previous games in the Assassin's Creed series, the story is divided into two intertwined halves, with one in the present day, one in a historical setting (1715), and the events of each influencing the other. Although the present-day story had previously established that an Animus was required to view one's ancestors memories, the ending of Assassin's Creed III reveals that Abstergo can now view a host's genetic memories simply by sequencing the host's DNA. As such, the player character is hired by Abstergo Entertainment to investigate a pivotal character in Desmond's ancestry, the Assassin Edward Kenway. A notorious pirate and privateer operating during the Golden Age of Piracy, Kenway's story is set in the Caribbean, and mixes open-ended ship-based exploration with combat and land-based adventures in Cuba and Jamaica, and on a number of Caribbean islands, parts of southern Florida and eastern Mexico.</long_description>
+  </game>
+  <game>
+    <id>2</id>
+    <name>Watch Dogs</name>
+    <release_date>18th November 2014</release_date>
+    <image>wd1.jpg</image>
+    <gallery>w11.jpg w12.jpg w13.jpg w14.jpg</gallery>
+    <url>https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs</url>
+    <short_description>Set in Chicago, where a central network of computers connects everyone and everything, Watch_Dogs explores the impact of technology within our society.</short_description>
+    <long_description>Watch_Dogs takes place in a fully simulated living city. Using Aiden's smartphone, you have real-time control over the city's infrastructure. Trap your enemy in a 30-car pileup by manipulating the traffic lights. Stop a train, and then board it to evade the authorities. Narrowly escape capture by quickly raising a drawbridge. Anything connected to the ctOS can become your weapon. Living in inner city Chicago, where violence is often answered by violence, Aiden has learned how to take the fight to the streets. Deliver devastating blows with your baton, or experience electrifying shoot-outs with physics simulation that rivals anything in the shooter category. Throughout his journey, Aiden will take on his foes with more than 30 traditional weapons.</long_description>
+  </game>
+  <game>
+    <id>2</id>
+    <name>Watch Dogs 2</name>
+    <release_date>15th November 2016</release_date>
+    <image>wd2.jpg</image>
+    <gallery>w21.jpg w22.jpg w23.jpg w24.jpg</gallery>
+    <url>https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2</url>
+    <short_description>gnite the rebel in you and break the rules - for the lulz, for what’s right, and most importantly, because you can.</short_description>
+    <long_description>Explore a massive and dynamic open-world offering an incredible variety of gameplay possibilities. Hack your way through the vibrant neighborhoods of the Bay Area: San Francisco, Marin County, Oakland, and Silicon Valley. There are many secrets to uncover in the birthplace of the tech revolution. Hack into the city’s infrastructure, every connected device, and everyone’s personal database. Take control of drones, cars, cranes, security robots, and much more. Hack your enemies and bystanders alike– manipulate them in different ways to trigger unpredictable chains of events. Every person, any vehicle they might drive, any connected device they possess can be hacked.</long_description>
+  </game>
+  <game>
+    <id>2</id>
+    <name>Watch Dogs Legion</name>
+    <release_date>29th October 2020</release_date>
+    <image>wdleg.jpg</image>
+    <gallery>wl1.jpg wl2.jpg wl3.jpg wl4.jpg</gallery>
+    <url>https://www.ubisoft.com/en-gb/game/watch-dogs/legion</url>
+    <short_description>Mass surveillance, private militaries controlling the streets, organised crime... Enough! It's time to end oppression. Recruit a well-rounded resistance to overthrow the opportunists ruining this once-great city. The fate of London lies with you.</short_description>
+    <long_description>Explore a massive urban open world and visit London’s many famous landmarks – including Big Ben, Tower Bridge, Camden, Piccadilly Circus or Whitechapel. Tackle missions choosing from a wide range of weapons, a brand-new melee system or stealth abilities. The way you approach combat has real consequences. If you use non-lethal force, the enemy will attempt to subdue and arrest you. If you shoot to kill, you risk having your characters permanently killed. Giving London back to the people doesn't have to be some heroic solo jaunt, ya know. Bring the fight online to join forces with up to three friends as you take on entirely new co-op missions and challenging end-game content.</long_description>
+  </game>
+  <game>
+    <id>3</id>
+    <name>Far Cry</name>
+    <release_date>23rd March 2004</release_date>
+    <image>fc1.jpg</image>
+    <gallery>f11.jpg f12.jpg f13.jpg f14.jpg</gallery>
+    <url>https://en.wikipedia.org/wiki/Far_Cry</url>
+    <short_description>A tropical paradise seethes with hidden evil in Far Cry®, a cunningly detailed action shooter that pushes the boundaries of combat to shocking new levels. </short_description>
+    <long_description>Freelance mariner Jack Carver is cursing the day he ever came to this island. A week ago, a brash female reporter named Valerie had offered him an incredible sum of cash to take her to this unspoiled paradise. Shortly after docking, however, Jack's boat was greeted by artillery fire from a mysterious militia group swarming about the island. 
+    With his boat destroyed, his money gone, and the gorgeous Valerie suddenly missing, Jack now finds himself facing an army of mercenaries amidst the wilds of the island, with nothing but a gun and his wits to survive. But the further he pushes into the lush jungle canopy, the stranger things become. </long_description>
+  </game>
+  <game>
+    <id>3</id>
+    <name>Far Cry 3</name>
+    <release_date>29th November 2012</release_date>
+    <image>fc3.jpg</image>
+    <gallery>f31.jpg f32.jpg f33.jpg f34.jpg</gallery>
+    <url>https://www.ubisoft.com/en-us/game/far-cry/far-cry-3</url>
+    <short_description>Beyond the limits of civilization lies an island, a lawless place ruled by piracy and human misery, where your only escapes are drugs or the muzzle of a gun.</short_description>
+    <long_description>Create your own FPS adventure. Customize your weapons, your skills and your approach to each mission, whether you favor intense run-and-gun action, stealthy close-up takedowns or long-range sniping. Explore an island playground as stunningly beautiful as it is diverse – from mountain ranges to swampy grasslands and white sandy beaches. Fight your way through the island’s towns, temples, river ports and more. Encounter a diverse and realistic cast of characters, including one of Far Cry’s most notorious villains: Vaas Montenegro. Dive into this deep and enriching story where morals are questionable and hope is all but abandoned.</long_description>
+  </game>
+  <game>
+    <id>3</id>
+    <name>Far Cry 5</name>
+    <release_date>27th March 2018</release_date>
+    <image>fc5.jpg</image>
+    <gallery>f51.jpg f52.jpg f53.jpg f54.jpg</gallery>
+    <url>https://www.ubisoft.com/en-us/game/far-cry/far-cry-5</url>
+    <short_description>Welcome to Hope County, Montana, land of the free and the brave, but also home to a fanatical doomsday cult—known as The Project at Eden’s Gate.</short_description>
+    <long_description>The fate of Hope County is in your hands. Take on the cult solo or team up with a fellow resister in co-op mode and wreak havoc upon Joseph Seed and his band of cult followers. In the biggest Far Cry release ever, you'll have everything at your disposal – from hired guns to hired fangs and the baddest arsenal this side of the Mississippi. When you hit hard, the enemy’s gonna hit back harder. Far Cry 5®'s dynamic AI tracks the effect you’re having in the game, and alters the enemy's strategy against you. Be prepared: The cult will boost their efforts when you become less of a nuisance and more of a threat.</long_description>
+  </game>
+  <game>
+    <id>3</id>
+    <name>Far Cry 6</name>
+    <release_date>18th February 2021</release_date>
+    <image>fc6.jpg</image>
+    <gallery>f61.jpg f62.jpg f63.jpg f64.jpg</gallery>
+    <url>https://www.ubisoft.com/en-gb/game/far-cry/far-cry-6</url>
+    <short_description>Embrace the gritty experience of an improvised modern-day guerrilla and take down a Dictator and his son to free Yara.</short_description>
+    <long_description>As the leaders of Yara, my son Diego and I will restore this nation back to its former glory. Antón will even sacrifice his own people to forge his paradise, DO NOT TRUST HIM. Dani Rojas and his band of guerillas are traitors to our great country. We fight to liberate our nation from the oppression of a ruthless tyrant. As a young boy decades ago, Yara was a prosperous paradise, and under my rule it will be once again.</long_description>
+  </game>
+</dataroot>
